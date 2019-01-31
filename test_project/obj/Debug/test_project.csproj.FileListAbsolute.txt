@@ -1,0 +1,77 @@
+D:\Shardakov\Projects\С#\test_project\test_project\bin\Debug\test_project.exe.config
+D:\Shardakov\Projects\С#\test_project\test_project\bin\Debug\test_project.exe
+D:\Shardakov\Projects\С#\test_project\test_project\bin\Debug\test_project.pdb
+D:\Shardakov\Projects\С#\test_project\test_project\obj\Debug\test_project.csprojResolveAssemblyReference.cache
+D:\Shardakov\Projects\С#\test_project\test_project\obj\Debug\test_project.Main_window.resources
+D:\Shardakov\Projects\С#\test_project\test_project\obj\Debug\test_project.Properties.Resources.resources
+D:\Shardakov\Projects\С#\test_project\test_project\obj\Debug\test_project.csproj.GenerateResource.Cache
+D:\Shardakov\Projects\С#\test_project\test_project\obj\Debug\test_project.exe
+D:\Shardakov\Projects\С#\test_project\test_project\obj\Debug\test_project.pdb
+C:\Users\Пользователь\Desktop\Programms\test_project\test_project\bin\Debug\test_project.exe.config
+C:\Users\Пользователь\Desktop\Programms\test_project\test_project\obj\Debug\test_project.exe
+C:\Users\Пользователь\Desktop\Programms\test_project\test_project\obj\Debug\test_project.pdb
+C:\Users\Пользователь\Desktop\Programms\test_project\test_project\bin\Debug\test_project.exe.manifest
+C:\Users\Пользователь\Desktop\Programms\test_project\test_project\bin\Debug\test_project.application
+C:\Users\Пользователь\Desktop\Programms\test_project\test_project\bin\Debug\test_project.exe
+C:\Users\Пользователь\Desktop\Programms\test_project\test_project\bin\Debug\test_project.pdb
+C:\Users\Пользователь\Desktop\Programms\test_project\test_project\obj\Debug\test_project.csprojResolveAssemblyReference.cache
+C:\Users\Пользователь\Desktop\Programms\test_project\test_project\obj\Debug\test_project.Main_window.resources
+C:\Users\Пользователь\Desktop\Programms\test_project\test_project\obj\Debug\test_project.Properties.Resources.resources
+C:\Users\Пользователь\Desktop\Programms\test_project\test_project\obj\Debug\test_project.csproj.GenerateResource.Cache
+C:\Users\Пользователь\Desktop\Programms\test_project\test_project\obj\Debug\test_project.exe.manifest
+C:\Users\Пользователь\Desktop\Programms\test_project\test_project\obj\Debug\test_project.application
+C:\Users\Пользователь\Desktop\Programms\test_project - копия\test_project\bin\Debug\test_project.exe.config
+C:\Users\Пользователь\Desktop\Programms\test_project - копия\test_project\obj\Debug\test_project.exe
+C:\Users\Пользователь\Desktop\Programms\test_project - копия\test_project\obj\Debug\test_project.pdb
+C:\Users\Пользователь\Desktop\Programms\test_project - копия\test_project\obj\Debug\test_project.Main_window.resources
+C:\Users\Пользователь\Desktop\Programms\test_project - копия\test_project\obj\Debug\test_project.Properties.Resources.resources
+C:\Users\Пользователь\Desktop\Programms\test_project - копия\test_project\obj\Debug\test_project.csproj.GenerateResource.Cache
+C:\Users\Пользователь\Desktop\Programms\test_project - копия\test_project\obj\Debug\test_project.ScopeUser.resources
+C:\Users\Пользователь\Desktop\Programms\test_project - копия\test_project\bin\Debug\test_project.exe.manifest
+C:\Users\Пользователь\Desktop\Programms\test_project - копия\test_project\bin\Debug\test_project.application
+C:\Users\Пользователь\Desktop\Programms\test_project - копия\test_project\bin\Debug\test_project.exe
+C:\Users\Пользователь\Desktop\Programms\test_project - копия\test_project\bin\Debug\test_project.pdb
+C:\Users\Пользователь\Desktop\Programms\test_project - копия\test_project\obj\Debug\test_project.exe.manifest
+C:\Users\Пользователь\Desktop\Programms\test_project - копия\test_project\obj\Debug\test_project.application
+H:\Прога\test_project - копия\test_project\bin\Debug\test_project.exe.config
+H:\Прога\test_project - копия\test_project\obj\Debug\test_project.exe
+H:\Прога\test_project - копия\test_project\obj\Debug\test_project.pdb
+H:\Прога\test_project - копия\test_project\bin\Debug\test_project.exe.manifest
+H:\Прога\test_project - копия\test_project\bin\Debug\test_project.application
+H:\Прога\test_project - копия\test_project\bin\Debug\test_project.exe
+H:\Прога\test_project - копия\test_project\bin\Debug\test_project.pdb
+H:\Прога\test_project - копия\test_project\obj\Debug\test_project.csprojResolveAssemblyReference.cache
+H:\Прога\test_project - копия\test_project\obj\Debug\test_project.Main_window.resources
+H:\Прога\test_project - копия\test_project\obj\Debug\test_project.Properties.Resources.resources
+H:\Прога\test_project - копия\test_project\obj\Debug\test_project.ScopeUser.resources
+H:\Прога\test_project - копия\test_project\obj\Debug\test_project.csproj.GenerateResource.Cache
+H:\Прога\test_project - копия\test_project\obj\Debug\test_project.exe.manifest
+H:\Прога\test_project - копия\test_project\obj\Debug\test_project.application
+C:\Users\Пользователь\Desktop\Programms\test_project - копия\test_project\obj\Debug\test_project.Calculate.resources
+G:\Прога\test_project\test_project\bin\Debug\test_project.exe.config
+G:\Прога\test_project\test_project\obj\Debug\test_project.exe
+G:\Прога\test_project\test_project\obj\Debug\test_project.pdb
+G:\Прога\test_project\test_project\obj\Debug\test_project.Calculate.resources
+G:\Прога\test_project\test_project\obj\Debug\test_project.Main_window.resources
+G:\Прога\test_project\test_project\obj\Debug\test_project.Properties.Resources.resources
+G:\Прога\test_project\test_project\obj\Debug\test_project.ScopeUser.resources
+G:\Прога\test_project\test_project\obj\Debug\test_project.csproj.GenerateResource.Cache
+G:\Прога\test_project\test_project\bin\Debug\test_project.exe.manifest
+G:\Прога\test_project\test_project\bin\Debug\test_project.application
+G:\Прога\test_project\test_project\bin\Debug\test_project.exe
+G:\Прога\test_project\test_project\bin\Debug\test_project.pdb
+G:\Прога\test_project\test_project\obj\Debug\test_project.exe.manifest
+G:\Прога\test_project\test_project\obj\Debug\test_project.application
+G:\Прога\test_project\test_project\obj\Debug\test_project.csprojResolveAssemblyReference.cache
+G:\Прога\test_project\test_project\obj\Debug\test_project.BlokForms.FormBlock_B.resources
+G:\Прога\test_project\test_project\obj\Debug\test_project.BlokForms.FormBlock_D.resources
+C:\Users\Пользователь\Desktop\Programms\test_project - копия\test_project\obj\Debug\test_project.BlokForms.FormBlock_B.resources
+C:\Users\Пользователь\Desktop\Programms\test_project - копия\test_project\obj\Debug\test_project.BlokForms.FormBlock_D.resources
+C:\Users\Пользователь\Desktop\Programms\test_project - копия\test_project\obj\Debug\test_project.BlokForms.FormBlock_Start.resources
+C:\Users\Пользователь\Desktop\Programms\test_project - копия\test_project\obj\Debug\test_project.BlokForms.FormBlock_Finish.resources
+C:\Users\Пользователь\Desktop\Programms\test_project - копия\test_project\obj\Debug\test_project.BlokForms.FormBlock_P.resources
+C:\Users\Пользователь\Desktop\Programms\test_project - копия\test_project\obj\Debug\test_project.BlokForms.FormBlock_L.resources
+C:\Users\Пользователь\Desktop\Programms\test_project - копия\test_project\obj\Debug\test_project.BlokForms.FormBlock_K.resources
+C:\Users\Пользователь\Desktop\Programms\test_project - копия\test_project\obj\Debug\test_project.BlokForms.FormBlock_Z.resources
+C:\Users\Пользователь\Desktop\Programms\test_project - копия\test_project\obj\Debug\test_project.csprojResolveAssemblyReference.cache
+C:\Users\Пользователь\Desktop\Programms\test_project - копия\test_project\obj\Debug\test_project.NameOfBlock.resources

@@ -1,0 +1,255 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{1D13D8CF-7CBA-4CCA-85DB-11C0AE06BE6B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>test_project</RootNamespace>
+    <AssemblyName>test_project</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\Users\Пользователь\Desktop\Test_Setup\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>1</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>070095A33497993999C35F55594A23341591597E</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>test_project_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Blocks\BlockData.cs" />
+    <Compile Include="Blocks\Block_D.cs" />
+    <Compile Include="Blocks\Block_Start.cs" />
+    <Compile Include="Blocks\Block_Finish.cs" />
+    <Compile Include="Blocks\Block_B.cs" />
+    <Compile Include="Blocks\Block_K.cs" />
+    <Compile Include="Blocks\Block_L.cs" />
+    <Compile Include="Blocks\Block_P.cs" />
+    <Compile Include="Blocks\Block_Z.cs" />
+    <Compile Include="BlockForms\FormBlock_Finish.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BlockForms\FormBlock_Finish.Designer.cs">
+      <DependentUpon>FormBlock_Finish.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BlockForms\FormBlock_Start.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BlockForms\FormBlock_Start.Designer.cs">
+      <DependentUpon>FormBlock_Start.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BlockForms\FormBlock_B.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BlockForms\FormBlock_B.Designer.cs">
+      <DependentUpon>FormBlock_B.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BlockForms\FormBlock_D.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BlockForms\FormBlock_D.Designer.cs">
+      <DependentUpon>FormBlock_D.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BlockForms\FormBlock_K.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BlockForms\FormBlock_K.Designer.cs">
+      <DependentUpon>FormBlock_K.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BlockForms\FormBlock_L.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BlockForms\FormBlock_L.Designer.cs">
+      <DependentUpon>FormBlock_L.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BlockForms\FormBlock_P.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BlockForms\FormBlock_P.Designer.cs">
+      <DependentUpon>FormBlock_P.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BlockForms\FormBlock_Z.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BlockForms\FormBlock_Z.Designer.cs">
+      <DependentUpon>FormBlock_Z.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Blocks\Data.cs" />
+    <Compile Include="Calculate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Calculate.Designer.cs">
+      <DependentUpon>Calculate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main_window.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main_window.Designer.cs">
+      <DependentUpon>Main_window.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NameOfBlock.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NameOfBlock.Designer.cs">
+      <DependentUpon>NameOfBlock.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="ScopeUser.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ScopeUser.Designer.cs">
+      <DependentUpon>ScopeUser.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="BlockForms\FormBlock_B.resx">
+      <DependentUpon>FormBlock_B.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BlockForms\FormBlock_D.resx">
+      <DependentUpon>FormBlock_D.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BlockForms\FormBlock_Finish.resx">
+      <DependentUpon>FormBlock_Finish.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BlockForms\FormBlock_K.resx">
+      <DependentUpon>FormBlock_K.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BlockForms\FormBlock_L.resx">
+      <DependentUpon>FormBlock_L.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BlockForms\FormBlock_P.resx">
+      <DependentUpon>FormBlock_P.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BlockForms\FormBlock_Start.resx">
+      <DependentUpon>FormBlock_Start.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BlockForms\FormBlock_Z.resx">
+      <DependentUpon>FormBlock_Z.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Calculate.resx">
+      <DependentUpon>Calculate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main_window.resx">
+      <DependentUpon>Main_window.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NameOfBlock.resx">
+      <DependentUpon>NameOfBlock.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ScopeUser.resx">
+      <DependentUpon>ScopeUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="test_project_TemporaryKey.pfx" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Recourse\Circle_1.png" />
+    <Content Include="Recourse\Finish_1.png" />
+    <Content Include="Recourse\Hexagon_1.png" />
+    <Content Include="Recourse\Rhombus_1.png" />
+    <Content Include="Recourse\Square_1.png" />
+    <Content Include="Recourse\Square_2.png" />
+    <Content Include="Recourse\Start_1.png" />
+    <Content Include="Recourse\Triangle_2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
